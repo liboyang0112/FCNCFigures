@@ -1,0 +1,1 @@
+The note do not read figures in "eps" format. If you got eps's, please put them in the correct place and run `./convert-to-pdf.sh`.
