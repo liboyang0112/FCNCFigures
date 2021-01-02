@@ -1,0 +1,1013 @@
+-------///////                 ///////-------
+-------/////// IN PRUNING PLOT ///////-------
+-------///////                 ///////-------
+In Region : reg2mtau1b3jos_vetobtagwp70_highmet
+ -> In Sample : tuH
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is shape only
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is dropped
+ --->>  JES_Detector2      is dropped
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is dropped
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is dropped
+ --->>  JES_Modelling3      is dropped
+ --->>  JES_Modelling4      is dropped
+ --->>  JES_Statistical1      is dropped
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is dropped
+ --->>  JES_Statistical4      is dropped
+ --->>  JES_Statistical5      is dropped
+ --->>  JES_Statistical6      is dropped
+ --->>  JER_1      is shape only
+ --->>  JER_2      is shape only
+ --->>  JER_3      is shape only
+ --->>  JER_4      is kept
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is dropped
+ --->>  JET_EtaInt_NonClosure_2018data      is dropped
+ --->>  JET_EtaInt_NonClosure_negEta      is dropped
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is dropped
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : fake
+ --->>  ff_nom_1p_up      is kept
+ --->>  ff_nom_3p_up      is kept
+ --->>  ff_sys_sb      is kept
+ --->>  ff_sys_ss      is kept
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is kept
+ --->>  JES_Detector2      is kept
+ --->>  JES_Mixed1      is kept
+ --->>  JES_Mixed2      is kept
+ --->>  JES_Mixed3      is kept
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is kept
+ --->>  JES_Modelling3      is kept
+ --->>  JES_Modelling4      is kept
+ --->>  JES_Statistical1      is kept
+ --->>  JES_Statistical2      is kept
+ --->>  JES_Statistical3      is kept
+ --->>  JES_Statistical4      is kept
+ --->>  JES_Statistical5      is kept
+ --->>  JES_Statistical6      is kept
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is kept
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is kept
+ --->>  JET_EtaInt_TotalStat      is kept
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is kept
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is kept
+ --->>  JET_EtaInt_NonClosure_posEta      is kept
+ --->>  JET_PunchThrough_MC16      is kept
+ --->>  JET_SingleParticle_HighPt      is kept
+ --->>  JET_TILECORR_Uncertainty      is kept
+ --->>  MET_SoftTrk_ResoPara      is kept
+ --->>  MET_SoftTrk_ResoPerp      is kept
+ --->>  MET_SoftTrk_Scale      is kept
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : ttbar
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is dropped
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is dropped
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is shape only
+ --->>  JER_2      is shape only
+ --->>  JER_3      is shape only
+ --->>  JER_4      is shape only
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is shape only
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is dropped
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is dropped
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is norm only
+ -> In Sample : ttV
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is shape only
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is kept
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is shape only
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is shape only
+ --->>  JET_SingleParticle_HighPt      is shape only
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : fake1truth
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is dropped
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is shape only
+ --->>  TES_MODEL_CLOSURE      is shape only
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is shape only
+ --->>  JER_2      is shape only
+ --->>  JER_3      is shape only
+ --->>  JER_4      is kept
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is shape only
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is shape only
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is shape only
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is kept
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is norm only
+ -> In Sample : others
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is kept
+ --->>  JES_Mixed2      is kept
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is kept
+ --->>  JES_Modelling4      is kept
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is kept
+ --->>  JES_Statistical5      is kept
+ --->>  JES_Statistical6      is dropped
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is kept
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is dropped
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is kept
+ --->>  MET_SoftTrk_ResoPerp      is kept
+ --->>  MET_SoftTrk_Scale      is kept
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is norm only
+ -> In Sample : ztautau
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is dropped
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is shape only
+ --->>  JER_2      is kept
+ --->>  JER_3      is shape only
+ --->>  JER_4      is kept
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is shape only
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is shape only
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is shape only
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is norm only
+ --->>  topXsec      is not present
+ -> In Sample : diboson
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is shape only
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is kept
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is shape only
+ --->>  JER_4      is shape only
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is shape only
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is shape only
+ --->>  JET_SingleParticle_HighPt      is shape only
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is kept
+ --->>  MET_SoftTrk_ResoPerp      is kept
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : smhiggs
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is shape only
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is dropped
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is shape only
+ --->>  JER_2      is shape only
+ --->>  JER_3      is shape only
+ --->>  JER_4      is shape only
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is shape only
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is shape only
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is shape only
+ --->>  JET_SingleParticle_HighPt      is shape only
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+In Region : reg2mtau1b2jos_vetobtagwp70_highmet
+ -> In Sample : tuH
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is shape only
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is dropped
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is dropped
+ --->>  JES_Modelling1      is shape only
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is dropped
+ --->>  JES_Statistical1      is dropped
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is shape only
+ --->>  JER_2      is shape only
+ --->>  JER_3      is shape only
+ --->>  JER_4      is kept
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is shape only
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is shape only
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is dropped
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : fake
+ --->>  ff_nom_1p_up      is kept
+ --->>  ff_nom_3p_up      is kept
+ --->>  ff_sys_sb      is kept
+ --->>  ff_sys_ss      is kept
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is kept
+ --->>  JES_Detector2      is kept
+ --->>  JES_Mixed1      is kept
+ --->>  JES_Mixed2      is kept
+ --->>  JES_Mixed3      is kept
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is kept
+ --->>  JES_Modelling3      is kept
+ --->>  JES_Modelling4      is kept
+ --->>  JES_Statistical1      is kept
+ --->>  JES_Statistical2      is kept
+ --->>  JES_Statistical3      is kept
+ --->>  JES_Statistical4      is kept
+ --->>  JES_Statistical5      is kept
+ --->>  JES_Statistical6      is kept
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is kept
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is kept
+ --->>  JET_EtaInt_TotalStat      is kept
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is kept
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is kept
+ --->>  JET_EtaInt_NonClosure_posEta      is kept
+ --->>  JET_PunchThrough_MC16      is kept
+ --->>  JET_SingleParticle_HighPt      is kept
+ --->>  JET_TILECORR_Uncertainty      is kept
+ --->>  MET_SoftTrk_ResoPara      is kept
+ --->>  MET_SoftTrk_ResoPerp      is kept
+ --->>  MET_SoftTrk_Scale      is kept
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : ttbar
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is shape only
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is dropped
+ --->>  JES_Statistical1      is dropped
+ --->>  JES_Statistical2      is dropped
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is dropped
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is shape only
+ --->>  JER_2      is shape only
+ --->>  JER_3      is shape only
+ --->>  JER_4      is shape only
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is shape only
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is shape only
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is shape only
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is dropped
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is norm only
+ -> In Sample : ttV
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is shape only
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is kept
+ --->>  JES_Detector2      is kept
+ --->>  JES_Mixed1      is kept
+ --->>  JES_Mixed2      is kept
+ --->>  JES_Mixed3      is kept
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is kept
+ --->>  JES_Modelling3      is kept
+ --->>  JES_Modelling4      is kept
+ --->>  JES_Statistical1      is kept
+ --->>  JES_Statistical2      is kept
+ --->>  JES_Statistical3      is kept
+ --->>  JES_Statistical4      is kept
+ --->>  JES_Statistical5      is kept
+ --->>  JES_Statistical6      is kept
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is shape only
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is kept
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is kept
+ --->>  JET_EtaInt_TotalStat      is kept
+ --->>  JET_EtaInt_NonClosure_2018data      is kept
+ --->>  JET_EtaInt_NonClosure_negEta      is kept
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is kept
+ --->>  JET_PunchThrough_MC16      is kept
+ --->>  JET_SingleParticle_HighPt      is kept
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is kept
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : fake1truth
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is dropped
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is shape only
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is dropped
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is dropped
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is dropped
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is dropped
+ --->>  JES_Statistical1      is dropped
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is dropped
+ --->>  JES_Statistical4      is dropped
+ --->>  JES_Statistical5      is dropped
+ --->>  JES_Statistical6      is dropped
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is kept
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is shape only
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is kept
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is norm only
+ -> In Sample : others
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is dropped
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is dropped
+ --->>  JES_Statistical1      is dropped
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is dropped
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is dropped
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is shape only
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is kept
+ --->>  JET_EtaInt_TotalStat      is kept
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is dropped
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is dropped
+ --->>  JET_EtaInt_NonClosure_posEta      is dropped
+ --->>  JET_PunchThrough_MC16      is dropped
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is kept
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is norm only
+ -> In Sample : ztautau
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is shape only
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is dropped
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is shape only
+ --->>  JER_5      is shape only
+ --->>  JER_6      is shape only
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is shape only
+ --->>  JET_Flavor_Composition      is shape only
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is dropped
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is shape only
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is shape only
+ --->>  JET_SingleParticle_HighPt      is shape only
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is norm only
+ --->>  topXsec      is not present
+ -> In Sample : diboson
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is kept
+ --->>  TES_DETECTOR      is shape only
+ --->>  TES_MODEL_CLOSURE      is kept
+ --->>  TES_INSITUEXP      is kept
+ --->>  TES_PHYSICSLIST      is kept
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is kept
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is shape only
+ --->>  JET_BJES_Response      is dropped
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is kept
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is kept
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is dropped
+ --->>  JET_EtaInt_Modelling      is kept
+ --->>  JET_EtaInt_NonClosure_highE      is shape only
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is shape only
+ --->>  JET_SingleParticle_HighPt      is dropped
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is kept
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is kept
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
+ -> In Sample : smhiggs
+ --->>  ff_nom_1p_up      is dropped
+ --->>  ff_nom_3p_up      is dropped
+ --->>  ff_sys_sb      is dropped
+ --->>  ff_sys_ss      is dropped
+ --->>  topMC      is not present
+ --->>  TES_INSITUFIT      is shape only
+ --->>  TES_DETECTOR      is kept
+ --->>  TES_MODEL_CLOSURE      is shape only
+ --->>  TES_INSITUEXP      is shape only
+ --->>  TES_PHYSICSLIST      is shape only
+ --->>  JES_Detector1      is shape only
+ --->>  JES_Detector2      is shape only
+ --->>  JES_Mixed1      is shape only
+ --->>  JES_Mixed2      is shape only
+ --->>  JES_Mixed3      is shape only
+ --->>  JES_Modelling1      is kept
+ --->>  JES_Modelling2      is shape only
+ --->>  JES_Modelling3      is shape only
+ --->>  JES_Modelling4      is shape only
+ --->>  JES_Statistical1      is shape only
+ --->>  JES_Statistical2      is shape only
+ --->>  JES_Statistical3      is shape only
+ --->>  JES_Statistical4      is shape only
+ --->>  JES_Statistical5      is shape only
+ --->>  JES_Statistical6      is shape only
+ --->>  JER_1      is kept
+ --->>  JER_2      is kept
+ --->>  JER_3      is kept
+ --->>  JER_4      is kept
+ --->>  JER_5      is kept
+ --->>  JER_6      is kept
+ --->>  JER_7restTerm      is kept
+ --->>  JET_JER_DataVsMC_MC16      is kept
+ --->>  JET_BJES_Response      is shape only
+ --->>  JET_Flavor_Composition      is kept
+ --->>  JET_Flavor_Response      is kept
+ --->>  JET_Pileup_RhoTopology      is kept
+ --->>  JET_Pileup_OffsetMu      is shape only
+ --->>  JET_Pileup_OffsetNPV      is kept
+ --->>  JET_Pileup_PtTerm      is shape only
+ --->>  JET_EtaInt_TotalStat      is shape only
+ --->>  JET_EtaInt_NonClosure_2018data      is shape only
+ --->>  JET_EtaInt_NonClosure_negEta      is shape only
+ --->>  JET_EtaInt_Modelling      is shape only
+ --->>  JET_EtaInt_NonClosure_highE      is shape only
+ --->>  JET_EtaInt_NonClosure_posEta      is shape only
+ --->>  JET_PunchThrough_MC16      is shape only
+ --->>  JET_SingleParticle_HighPt      is shape only
+ --->>  JET_TILECORR_Uncertainty      is dropped
+ --->>  MET_SoftTrk_ResoPara      is shape only
+ --->>  MET_SoftTrk_ResoPerp      is shape only
+ --->>  MET_SoftTrk_Scale      is shape only
+ --->>  LumiUncertainty      is not present
+ --->>  zttXsec      is not present
+ --->>  topXsec      is not present
