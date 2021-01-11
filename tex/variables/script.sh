@@ -19,13 +19,14 @@ do
 	do
 		if [[ $file =~ "train" ]] ; then continue ; fi
 		if ((ivar%12==0 && ivar!=0)) ; then
+			ivar=0
 			echo "\caption{ The variables distributions for the background and merged tuH signal in the ${leptonicChannelsTitle[$ichannel]}}
 \label{fig:var_${leptonicChannels[$ichannel]}_$((ivar/12))}
 \end{figure}
 \begin{figure}[htb]
 \centering" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		fi
-		echo '\includegraphics[page=6,width=0.33\textwidth]{'$leptonicDir$channels/$file"}
+		echo '\includegraphics[page=6,width=0.33\textwidth]{'\\FCNCFigures/tthML/showFake/faketau/postfit/NOMINAL/$channels/$file"}
 \\put(-30, 80){\\textbf{(${char[$ivar]})}}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		((ivar++))
 		if ((ivar%3==0)) ; then
@@ -49,6 +50,7 @@ do
 	do
 		if [[ $file =~ "train" ]] ; then continue ; fi
 		if ((ivar%12==0 && ivar!=0)) ; then
+			ivar=0
 			echo "\caption{ The variables distributions for the background and merged tuH signal in the ${hadronicChannelsTitle[$ichannel]}}
 \label{fig:var_${hadronicChannels[$ichannel]}_$((ivar/12))}
 \end{figure}
@@ -56,7 +58,7 @@ do
 \centering" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		fi
 
-		echo '\includegraphics[page=6,width=0.33\textwidth]{'$hadronicDir$channels/$file"}
+		echo '\includegraphics[page=6,width=0.33\textwidth]{'\\FCNCFigures/xTFW/showFake/NOMINAL/$channels/$file"}
 \\put(-30, 80){\\textbf{(${char[$ivar]})}}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		((ivar++))
 		if ((ivar%3==0)) ; then
