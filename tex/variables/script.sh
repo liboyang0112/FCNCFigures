@@ -25,7 +25,7 @@ do
 \begin{figure}[htb]
 \centering" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		fi
-		echo '\includegraphics[page=6,width=0.33\textwidth]{'$leptonicDir$channels/$file"}
+		echo '\includegraphics[page=6,width=0.33\textwidth]{'\\FCNCFigures/tthML/showFake/faketau/postfit/NOMINAL/$channels/$file"}
 \\put(-30, 80){\\textbf{(${char[$ivar]})}}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		((ivar++))
 		if ((ivar%3==0)) ; then
@@ -56,7 +56,7 @@ do
 \centering" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		fi
 
-		echo '\includegraphics[page=6,width=0.33\textwidth]{'$hadronicDir$channels/$file"}
+		echo '\includegraphics[page=6,width=0.33\textwidth]{'\\FCNCFigures/xTFW/showFake/NOMINAL/$channels/$file"}
 \\put(-30, 80){\\textbf{(${char[$ivar]})}}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
 		((ivar++))
 		if ((ivar%3==0)) ; then
