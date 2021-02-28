@@ -14,7 +14,7 @@ for channels in ${leptonicChannels[@]}
 do
 	ivar=0
 	echo '\begin{figure}[H]
-\centering' > $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+\centering' > $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 	for file in `ls $leptonicDir$channels`
 	do
 		if [[ $file =~ "train" ]] ; then continue ; fi
@@ -23,22 +23,22 @@ do
 
 		if ((ivar%6==0 && ivar!=0)) ; then
 			echo "\caption{${leptonicChannelsTitle[$ichannel]}信号区中各变量的分布图，图中信号为tuH耦合。}
-\label{fig:var_${leptonicChannels[$ichannel]}_$((ivar/12))}
+\label{fig:var_${leptonicChannels[$ichannel]}_$((ivar/6))}
 \end{figure}
 \begin{figure}[H]
-\centering" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+\centering" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 		fi
-		echo '\includegraphics[page=6,width=0.47\textwidth]{'\\FCNCFigures/tthML/showFake/faketau/postfit/NOMINAL/$channels/$file"}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+		echo '\includegraphics[page=6,width=0.47\textwidth]{'\\FCNCFigures/tthML/showFake/faketau/postfit/NOMINAL/$channels/$file"}" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 #\\put(-40, 90){\\textbf{(${char[$((ivar%6))]})}}
 		((ivar++))
 		if ((ivar%2==0)) ; then
-			echo "\\\\" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+			echo "\\\\" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 		fi
 
 	done
 	echo "\caption{${leptonicChannelsTitle[$ichannel]}信号区中各变量的分布图，图中信号为tuH耦合。}
 \label{fig:var_${leptonicChannels[$ichannel]}}
-\end{figure}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+\end{figure}" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 	((ichannel++))
 done
 
@@ -47,28 +47,28 @@ for channels in ${hadronicChannels[@]}
 do
 	ivar=0
 	echo '\begin{figure}[H]
-\centering' > $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+\centering' > $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 	for file in `ls $hadronicDir$channels`
 	do
 		if [[ $file =~ "train" ]] ; then continue ; fi
 		if ((ivar%6==0 && ivar!=0)) ; then
 			echo "\caption{${hadronicChannelsTitle[$ichannel]}信号区中各变量的分布图，图中信号为tuH耦合。}
-\label{fig:var_${hadronicChannels[$ichannel]}_$((ivar/12))}
+\label{fig:var_${hadronicChannels[$ichannel]}_$((ivar/6))}
 \end{figure}
 \begin{figure}[H]
-\centering" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+\centering" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 		fi
 
-		echo '\includegraphics[page=6,width=0.47\textwidth]{'\\FCNCFigures/xTFW/showFake/NOMINAL/$channels/$file"}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+		echo '\includegraphics[page=6,width=0.47\textwidth]{'\\FCNCFigures/xTFW/showFake/NOMINAL/$channels/$file"}" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 #\\put(-40, 90){\\textbf{(${char[$((ivar%6))]})}}
 		((ivar++))
 		if ((ivar%2==0)) ; then
-			echo "\\\\" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+			echo "\\\\" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 		fi
 
 	done
 	echo "\caption{${hadronicChannelsTitle[$ichannel]}信号区中各变量的分布图，图中信号为tuH耦合。}
 \label{fig:var_${hadronicChannels[$ichannel]}}
-\end{figure}" >> $FCNC_DIR/FCNCFigures/tex/variables/$channels.tex
+\end{figure}" >> $FCNC_DIR/FCNCFigures/tex_chinese/variables/$channels.tex
 	((ichannel++))
 done
