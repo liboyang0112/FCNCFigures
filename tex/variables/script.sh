@@ -1,8 +1,8 @@
 #!/bin/bash
 leptonicChannels=("reg1l1tau1b2j_os_vetobtagwp70_highmet" "reg1l1tau1b3j_os_vetobtagwp70_highmet" "reg1l1tau1b2j_ss_vetobtagwp70_highmet" "reg1l1tau1b1j_ss_vetobtagwp70_highmet" "reg1l2tau1bnj_os")
-leptonicChannelsTitle=("STH \$\\tlhad\$" "TTH \$\\tlhad\$" "\$l\\thad\$ 2j" "\$l\\thad\$ 1j" "\$l\\thadhad\$")
+leptonicChannelsTitle=("\$t_h\\tlhad\$-2j" "\$t_h\\tlhad\$-3j" "\$t_l\\thad\$-2j" "\$t_l\\thad\$-1j" "\$t_l\\thadhad\$")
 hadronicChannels=("reg2mtau1b2jos_vetobtagwp70_highmet" "reg2mtau1b3jos_vetobtagwp70_highmet")
-hadronicChannelsTitle=("STH \$\\thadhad\$" "TTH \$\\thadhad\$")
+hadronicChannelsTitle=("\$t_h\\thadhad\$-2j" "\$t_h\\thadhad\$-3j")
 
 leptonicDir="$FCNC_DIR/FCNCFigures/tthML/showFake/faketau/postfit/NOMINAL/"
 hadronicDir="$FCNC_DIR/FCNCFigures/xTFW/showFake/NOMINAL/"
